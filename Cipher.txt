@@ -1,0 +1,14 @@
+list = ['7AXB','7PDB','7ARL','7JEH']
+form = input('Ener a form: ')
+valid = False
+index = 0
+length = len(list)
+while valid == False and index < length:
+    if form == list[index]:
+        valid = True
+    else:
+        index += 1
+if valid == True:
+    print('Valid form')
+else:
+    print('no existence')

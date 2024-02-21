@@ -1,0 +1,4 @@
+The number of student who got a distinction is 0
+The number of student who got a merit is 1
+The number of student who got a normal is 1
+The number of student who got a fail is 0
